@@ -1,0 +1,216 @@
+Index,Gender,ssc_%,ssc_board,hsc_%,hsc_board,hsc_stream,degree_%,degree_domain,work_experience,entrance_score,specialization,mba_%,status
+1001,M,67,Others,91,Others,Commerce,58,Science & Technology,No,55,Marketing & Human Resources,58.8,Placed
+1002,M,79.33,Central,78.33,Others,Science,77.48,Science & Technology,Yes,86.5,Marketing & Finance,66.28,Placed
+1003,M,65,Central,68,Central,Arts,64,Commerce & Management,No,75,Marketing & Finance,57.8,Placed
+1004,M,56,Central,52,Central,Science,52,Science & Technology,No,66,Marketing & Human Resources,59.43,Not Placed
+1005,M,85.8,Central,73.6,Central,Commerce,73.3,Commerce & Management,No,96.8,Marketing & Finance,55.5,Placed
+1006,M,55,Others,49.8,Others,Science,67.25,Science & Technology,Yes,55,Marketing & Finance,51.58,Not Placed
+1007,F,46,Others,49.2,Others,Commerce,79,Commerce & Management,No,74.28,Marketing & Finance,53.29,Not Placed
+1008,M,82,Central,64,Central,Science,66,Science & Technology,Yes,67,Marketing & Finance,62.14,Placed
+1009,M,73,Central,79,Central,Commerce,72,Commerce & Management,No,91.34,Marketing & Finance,61.29,Placed
+1010,M,58,Central,70,Central,Commerce,61,Commerce & Management,No,54,Marketing & Finance,52.21,Not Placed
+1011,M,58,Central,61,Central,Commerce,60,Commerce & Management,Yes,62,Marketing & Human Resources,60.85,Placed
+1012,M,69.6,Central,68.4,Central,Commerce,78.3,Commerce & Management,Yes,60,Marketing & Finance,63.7,Placed
+1013,F,47,Central,55,Others,Science,65,Commerce & Management,No,62,Marketing & Human Resources,65.04,Not Placed
+1014,F,77,Central,87,Central,Arts,59,Commerce & Management,No,68,Marketing & Finance,68.63,Placed
+1015,M,62,Central,47,Central,Commerce,50,Commerce & Management,No,76,Marketing & Human Resources,54.96,Not Placed
+1016,F,65,Central,75,Central,Commerce,69,Commerce & Management,Yes,72,Marketing & Finance,64.66,Placed
+1017,M,63,Central,66.2,Central,Commerce,65.6,Commerce & Management,Yes,60,Marketing & Finance,62.54,Placed
+1018,F,55,Central,67,Central,Commerce,64,Commerce & Management,No,60,Marketing & Finance,67.28,Not Placed
+1019,F,63,Central,66,Central,Commerce,64,Commerce & Management,No,68,Marketing & Human Resources,64.08,Not Placed
+1020,M,60,Others,67,Others,Arts,70,Commerce & Management,Yes,50.48,Marketing & Finance,77.89,Placed
+1021,M,62,Others,65,Others,Commerce,66,Commerce & Management,No,50,Marketing & Human Resources,56.7,Placed
+1022,F,79,Others,76,Others,Commerce,85,Commerce & Management,No,95,Marketing & Finance,69.06,Placed
+1023,F,69.8,Others,60.8,Others,Science,72.23,Science & Technology,No,55.53,Marketing & Human Resources,68.81,Placed
+1024,F,77.4,Others,60,Others,Science,64.74,Science & Technology,Yes,92,Marketing & Finance,63.62,Placed
+1025,M,76.5,Others,97.7,Others,Science,78.86,Science & Technology,No,97.4,Marketing & Finance,74.01,Placed
+1026,F,52.58,Others,54.6,Central,Commerce,50.2,Commerce & Management,Yes,76,Marketing & Finance,65.33,Not Placed
+1027,M,71,Others,79,Others,Commerce,66,Commerce & Management,Yes,94,Marketing & Finance,57.55,Placed
+1028,M,63,Others,67,Others,Commerce,66,Commerce & Management,No,68,Marketing & Human Resources,57.69,Placed
+1029,M,76.76,Others,76.5,Others,Commerce,67.5,Commerce & Management,Yes,73.35,Marketing & Finance,64.15,Placed
+1030,M,62,Central,67,Central,Commerce,58,Commerce & Management,No,77,Marketing & Finance,51.29,Not Placed
+1031,F,64,Central,73.5,Central,Commerce,73,Commerce & Management,No,52,Marketing & Human Resources,56.7,Placed
+1032,F,67,Central,53,Central,Science,65,Science & Technology,No,64,Marketing & Human Resources,58.32,Not Placed
+1033,F,61,Central,81,Central,Commerce,66.4,Commerce & Management,No,50.89,Marketing & Human Resources,62.21,Placed
+1034,F,87,Others,65,Others,Science,81,Commerce & Management,Yes,88,Marketing & Finance,72.78,Placed
+1035,M,62,Others,51,Others,Science,52,Medical & Others,No,68.44,Marketing & Human Resources,62.77,Not Placed
+1036,F,69,Central,78,Central,Commerce,72,Commerce & Management,No,71,Marketing & Human Resources,62.74,Placed
+1037,M,51,Central,44,Central,Commerce,57,Commerce & Management,No,64,Marketing & Finance,51.45,Not Placed
+1038,F,79,Central,76,Central,Science,65.6,Science & Technology,No,58,Marketing & Human Resources,55.47,Placed
+1039,F,73,Others,58,Others,Science,66,Commerce & Management,No,53.7,Marketing & Human Resources,56.86,Placed
+1040,M,81,Others,68,Others,Science,64,Science & Technology,No,93,Marketing & Finance,62.56,Placed
+1041,F,78,Central,77,Others,Commerce,80,Commerce & Management,No,60,Marketing & Finance,66.72,Placed
+1042,F,74,Others,63.16,Others,Commerce,65,Commerce & Management,Yes,65,Marketing & Human Resources,69.76,Not Placed
+1043,M,49,Others,39,Central,Science,65,Medical & Others,No,63,Marketing & Finance,51.21,Not Placed
+1044,M,87,Others,87,Others,Commerce,68,Commerce & Management,No,95,Marketing & Human Resources,62.9,Placed
+1045,F,77,Others,73,Others,Commerce,81,Commerce & Management,Yes,89,Marketing & Finance,69.7,Placed
+1046,F,76,Central,64,Central,Science,72,Science & Technology,No,58,Marketing & Human Resources,66.53,Not Placed
+1047,F,70.89,Others,71.98,Others,Science,65.6,Commerce & Management,No,68,Marketing & Human Resources,71.63,Not Placed
+1048,M,63,Central,60,Central,Commerce,57,Commerce & Management,Yes,78,Marketing & Finance,54.55,Placed
+1049,M,63,Others,62,Others,Commerce,68,Commerce & Management,No,64,Marketing & Finance,62.46,Placed
+1050,F,50,Others,37,Others,Arts,52,Medical & Others,No,65,Marketing & Human Resources,56.11,Not Placed
+1051,F,75.2,Central,73.2,Central,Science,68.4,Commerce & Management,No,65,Marketing & Human Resources,62.98,Placed
+1052,M,54.4,Central,61.12,Central,Commerce,56.2,Commerce & Management,No,67,Marketing & Human Resources,62.65,Not Placed
+1053,F,40.89,Others,45.83,Others,Commerce,53,Commerce & Management,No,71.2,Marketing & Human Resources,65.49,Not Placed
+1054,M,80,Others,70,Others,Science,72,Science & Technology,No,87,Marketing & Human Resources,71.04,Placed
+1055,F,74,Central,60,Others,Science,69,Commerce & Management,No,78,Marketing & Human Resources,65.56,Placed
+1056,M,60.4,Central,66.6,Others,Science,65,Commerce & Management,No,71,Marketing & Human Resources,52.71,Placed
+1057,M,63,Others,71.4,Others,Commerce,61.4,Commerce & Management,No,68,Marketing & Finance,66.88,Placed
+1058,M,68,Central,76,Central,Commerce,74,Commerce & Management,No,80,Marketing & Finance,63.59,Placed
+1059,M,74,Central,62,Others,Science,68,Commerce & Management,No,74,Marketing & Finance,57.99,Placed
+1060,M,52.6,Central,65.58,Others,Science,72.11,Science & Technology,No,57.6,Marketing & Finance,56.66,Placed
+1061,M,74,Central,70,Central,Science,72,Commerce & Management,Yes,60,Marketing & Finance,57.24,Placed
+1062,M,84.2,Central,73.4,Central,Commerce,66.89,Commerce & Management,No,61.6,Marketing & Finance,62.48,Placed
+1063,F,86.5,Others,64.2,Others,Science,67.4,Science & Technology,No,59,Marketing & Finance,59.69,Placed
+1064,M,61,Others,70,Others,Commerce,64,Commerce & Management,No,68.5,Marketing & Human Resources,59.5,Not Placed
+1065,M,80,Others,73,Others,Commerce,75,Commerce & Management,No,61,Marketing & Finance,58.78,Placed
+1066,M,54,Others,47,Others,Science,57,Commerce & Management,No,89.69,Marketing & Human Resources,57.1,Not Placed
+1067,M,83,Others,74,Others,Science,66,Commerce & Management,No,68.92,Marketing & Human Resources,58.46,Placed
+1068,M,80.92,Others,78.5,Others,Commerce,67,Commerce & Management,No,68.71,Marketing & Finance,60.99,Placed
+1069,F,69.7,Central,47,Central,Commerce,72.7,Science & Technology,No,79,Marketing & Human Resources,59.24,Not Placed
+1070,M,73,Central,73,Central,Science,66,Science & Technology,Yes,70,Marketing & Finance,68.07,Placed
+1071,M,82,Others,61,Others,Science,62,Science & Technology,No,89,Marketing & Finance,65.45,Placed
+1072,M,75,Others,70.29,Others,Commerce,71,Commerce & Management,No,95,Marketing & Finance,66.94,Placed
+1073,M,84.86,Others,67,Others,Science,78,Commerce & Management,No,95.5,Marketing & Finance,68.53,Placed
+1074,M,64.6,Central,83.83,Others,Commerce,71.72,Commerce & Management,No,86,Marketing & Finance,59.75,Placed
+1075,M,56.6,Central,64.8,Central,Commerce,70.2,Commerce & Management,No,84.27,Marketing & Finance,67.2,Placed
+1076,F,59,Central,62,Others,Commerce,77.5,Commerce & Management,No,74,Marketing & Human Resources,67,Not Placed
+1077,F,66.5,Others,70.4,Central,Arts,71.93,Commerce & Management,No,61,Marketing & Finance,64.27,Placed
+1078,M,64,Others,80,Others,Science,65,Science & Technology,Yes,69,Marketing & Finance,57.65,Placed
+1079,M,84,Others,90.9,Others,Science,64.5,Science & Technology,No,86.04,Marketing & Finance,59.42,Placed
+1080,F,69,Central,62,Central,Science,66,Science & Technology,No,75,Marketing & Human Resources,67.99,Not Placed
+1081,F,69,Others,62,Others,Commerce,69,Commerce & Management,Yes,67,Marketing & Human Resources,62.35,Placed
+1082,M,81.7,Others,63,Others,Science,67,Commerce & Management,Yes,86,Marketing & Finance,70.2,Placed
+1083,M,63,Central,67,Central,Commerce,74,Commerce & Management,No,82,Marketing & Finance,60.44,Not Placed
+1084,M,84,Others,79,Others,Science,68,Science & Technology,Yes,84,Marketing & Finance,66.69,Placed
+1085,M,70,Central,63,Others,Science,70,Science & Technology,Yes,55,Marketing & Finance,62,Placed
+1086,F,83.84,Others,89.83,Others,Commerce,77.2,Commerce & Management,Yes,78.74,Marketing & Finance,76.18,Placed
+1087,M,62,Others,63,Others,Commerce,64,Commerce & Management,No,67,Marketing & Finance,57.03,Placed
+1088,M,59.6,Central,51,Central,Science,60,Medical & Others,No,75,Marketing & Human Resources,59.08,Not Placed
+1089,F,66,Central,62,Central,Commerce,73,Commerce & Management,No,58,Marketing & Human Resources,64.36,Placed
+1090,F,84,Others,75,Others,Science,69,Science & Technology,Yes,62,Marketing & Human Resources,62.36,Placed
+1091,F,85,Others,90,Others,Commerce,82,Commerce & Management,No,92,Marketing & Finance,68.03,Placed
+1092,M,52,Central,57,Central,Commerce,50.8,Commerce & Management,No,67,Marketing & Human Resources,62.79,Not Placed
+1093,F,60.23,Central,69,Central,Science,66,Commerce & Management,No,72,Marketing & Finance,59.47,Placed
+1094,M,52,Central,62,Central,Commerce,54,Commerce & Management,No,72,Marketing & Human Resources,55.41,Not Placed
+1095,M,58,Central,62,Central,Commerce,64,Commerce & Management,No,53.88,Marketing & Finance,54.97,Placed
+1096,M,73,Central,78,Others,Commerce,65,Commerce & Management,Yes,95.46,Marketing & Finance,62.16,Placed
+1097,F,76,Central,70,Central,Science,76,Commerce & Management,Yes,66,Marketing & Finance,64.44,Placed
+1098,F,70.5,Central,62.5,Others,Commerce,61,Commerce & Management,No,93.91,Marketing & Finance,69.03,Not Placed
+1099,F,69,Central,73,Central,Commerce,65,Commerce & Management,No,70,Marketing & Finance,57.31,Placed
+1100,M,54,Central,82,Others,Commerce,63,Science & Technology,No,50,Marketing & Finance,59.47,Not Placed
+1101,F,45,Others,57,Others,Commerce,58,Commerce & Management,Yes,56.39,Marketing & Human Resources,64.95,Not Placed
+1102,M,63,Central,72,Central,Commerce,68,Commerce & Management,No,78,Marketing & Human Resources,60.44,Placed
+1103,F,77,Others,61,Others,Commerce,68,Commerce & Management,Yes,57.5,Marketing & Finance,61.31,Placed
+1104,M,73,Central,78,Central,Science,73,Science & Technology,Yes,85,Marketing & Human Resources,65.83,Placed
+1105,M,69,Central,63,Others,Science,65,Commerce & Management,Yes,55,Marketing & Human Resources,58.23,Placed
+1106,M,59,Central,64,Others,Science,58,Science & Technology,No,85,Marketing & Human Resources,55.3,Not Placed
+1107,M,61.08,Others,50,Others,Science,54,Science & Technology,No,71,Marketing & Finance,65.69,Not Placed
+1108,M,82,Others,90,Others,Commerce,83,Commerce & Management,No,80,Marketing & Human Resources,73.52,Placed
+1109,M,61,Central,82,Central,Commerce,69,Commerce & Management,No,84,Marketing & Finance,58.31,Placed
+1110,M,52,Central,63,Others,Science,65,Science & Technology,Yes,86,Marketing & Human Resources,56.09,Not Placed
+1111,F,69.5,Central,70,Central,Science,72,Science & Technology,No,57.2,Marketing & Human Resources,54.8,Placed
+1112,M,51,Others,54,Others,Science,61,Science & Technology,No,60,Marketing & Human Resources,60.64,Not Placed
+1113,M,58,Others,61,Others,Commerce,61,Commerce & Management,No,58,Marketing & Human Resources,53.94,Placed
+1114,F,73.96,Others,79,Others,Commerce,67,Commerce & Management,No,72.15,Marketing & Finance,63.08,Placed
+1115,M,65,Central,68,Others,Science,69,Commerce & Management,No,53.7,Marketing & Human Resources,55.01,Placed
+1116,F,73,Others,63,Others,Science,66,Commerce & Management,No,89,Marketing & Finance,60.5,Placed
+1117,M,68.2,Central,72.8,Central,Commerce,66.6,Commerce & Management,Yes,96,Marketing & Finance,70.85,Placed
+1118,M,77,Others,75,Others,Science,73,Science & Technology,No,80,Marketing & Finance,67.05,Placed
+1119,M,76,Central,80,Central,Science,78,Science & Technology,Yes,97,Marketing & Human Resources,70.48,Placed
+1120,M,60.8,Central,68.4,Central,Commerce,64.6,Commerce & Management,Yes,82.66,Marketing & Finance,64.34,Placed
+1121,M,58,Others,40,Others,Science,59,Commerce & Management,No,73,Marketing & Human Resources,58.81,Not Placed
+1122,F,64,Central,67,Others,Science,69.6,Science & Technology,Yes,55.67,Marketing & Human Resources,71.49,Placed
+1123,F,66.5,Central,66.8,Central,Arts,69.3,Commerce & Management,Yes,80.4,Marketing & Finance,71,Placed
+1124,M,74,Others,59,Others,Commerce,73,Commerce & Management,Yes,60,Marketing & Human Resources,56.7,Placed
+1125,M,67,Central,71,Central,Science,64.33,Medical & Others,Yes,64,Marketing & Human Resources,61.26,Placed
+1126,F,84,Central,73,Central,Commerce,73,Commerce & Management,No,75,Marketing & Finance,73.33,Placed
+1127,F,79,Others,61,Others,Science,75.5,Science & Technology,Yes,70,Marketing & Finance,68.2,Placed
+1128,F,72,Others,60,Others,Science,69,Commerce & Management,No,55.5,Marketing & Human Resources,58.4,Placed
+1129,M,80.4,Central,73.4,Central,Science,77.72,Science & Technology,Yes,81.2,Marketing & Human Resources,76.26,Placed
+1130,M,76.7,Central,89.7,Others,Commerce,66,Commerce & Management,Yes,90,Marketing & Finance,68.55,Placed
+1131,M,62,Central,65,Others,Commerce,60,Commerce & Management,No,84,Marketing & Finance,64.15,Not Placed
+1132,F,74.9,Others,57,Others,Science,62,Medical & Others,Yes,80,Marketing & Finance,60.78,Placed
+1133,M,67,Others,68,Others,Commerce,64,Commerce & Management,Yes,74.4,Marketing & Human Resources,53.49,Placed
+1134,M,73,Central,64,Others,Commerce,77,Commerce & Management,Yes,65,Marketing & Human Resources,60.98,Placed
+1135,F,77.44,Central,92,Others,Commerce,72,Commerce & Management,Yes,94,Marketing & Finance,67.13,Placed
+1136,F,72,Central,56,Others,Science,69,Commerce & Management,No,55.6,Marketing & Human Resources,65.63,Placed
+1137,F,47,Central,59,Central,Arts,64,Commerce & Management,No,78,Marketing & Finance,61.58,Not Placed
+1138,M,67,Others,63,Central,Commerce,72,Commerce & Management,No,56,Marketing & Human Resources,60.41,Placed
+1139,F,82,Others,64,Others,Science,73,Science & Technology,Yes,96,Marketing & Finance,71.77,Placed
+1140,M,77,Central,70,Central,Commerce,59,Commerce & Management,Yes,58,Marketing & Finance,54.43,Placed
+1141,M,65,Central,64.8,Others,Commerce,69.5,Commerce & Management,Yes,56,Marketing & Finance,56.94,Placed
+1142,M,66,Central,64,Central,Science,60,Commerce & Management,No,60,Marketing & Human Resources,61.9,Not Placed
+1143,M,85,Central,60,Others,Science,73.43,Science & Technology,Yes,60,Marketing & Finance,61.29,Placed
+1144,M,77.67,Others,64.89,Others,Commerce,70.67,Commerce & Management,No,89,Marketing & Finance,60.39,Placed
+1145,M,52,Others,50,Others,Arts,61,Commerce & Management,No,60,Marketing & Finance,58.52,Not Placed
+1146,M,89.4,Others,65.66,Others,Science,71.25,Science & Technology,No,72,Marketing & Human Resources,63.23,Placed
+1147,M,62,Central,63,Others,Science,66,Commerce & Management,No,85,Marketing & Human Resources,55.14,Placed
+1148,M,70,Central,74,Central,Commerce,65,Commerce & Management,No,83,Marketing & Finance,62.28,Placed
+1149,F,77,Central,86,Central,Arts,56,Medical & Others,No,57,Marketing & Finance,64.08,Placed
+1150,M,44,Central,58,Central,Arts,55,Commerce & Management,Yes,64.25,Marketing & Human Resources,58.54,Not Placed
+1151,M,71,Central,58.66,Central,Science,58,Science & Technology,Yes,56,Marketing & Finance,61.3,Placed
+1152,M,65,Central,65,Central,Commerce,75,Commerce & Management,No,83,Marketing & Finance,58.87,Placed
+1153,F,75.4,Others,60.5,Central,Science,84,Science & Technology,No,98,Marketing & Finance,65.25,Placed
+1154,M,49,Others,59,Others,Science,65,Science & Technology,Yes,86,Marketing & Finance,62.48,Placed
+1155,M,53,Central,63,Others,Science,60,Commerce & Management,Yes,70,Marketing & Finance,53.2,Placed
+1156,M,51.57,Others,74.66,Others,Commerce,59.9,Commerce & Management,Yes,56.15,Marketing & Human Resources,65.99,Not Placed
+1157,M,84.2,Central,69.4,Central,Science,65,Science & Technology,Yes,80,Marketing & Human Resources,52.72,Placed
+1158,M,66.5,Central,62.5,Central,Commerce,60.9,Commerce & Management,No,93.4,Marketing & Finance,55.03,Placed
+1159,M,67,Others,63,Others,Science,64,Science & Technology,No,60,Marketing & Finance,61.87,Not Placed
+1160,M,52,Central,49,Others,Commerce,58,Commerce & Management,No,62,Marketing & Human Resources,60.59,Not Placed
+1161,M,87,Central,74,Central,Science,65,Science & Technology,Yes,75,Marketing & Human Resources,72.29,Placed
+1162,M,55.6,Others,51,Others,Commerce,57.5,Commerce & Management,No,57.63,Marketing & Human Resources,62.72,Not Placed
+1163,M,74.2,Central,87.6,Others,Commerce,77.25,Commerce & Management,Yes,75.2,Marketing & Finance,66.06,Placed
+1164,M,63,Others,67,Others,Science,64,Science & Technology,No,75,Marketing & Finance,66.46,Placed
+1165,F,67.16,Central,72.5,Central,Commerce,63.35,Commerce & Management,No,53.04,Marketing & Finance,65.52,Placed
+1166,F,63.3,Central,78.33,Others,Commerce,74,Commerce & Management,No,80,Marketing & Finance,74.56,Not Placed
+1167,M,62,Others,62,Others,Commerce,60,Commerce & Management,Yes,63,Marketing & Human Resources,52.38,Placed
+1168,M,67.9,Others,62,Others,Science,67,Science & Technology,Yes,58.1,Marketing & Finance,75.71,Not Placed
+1169,F,48,Central,51,Central,Commerce,58,Commerce & Management,Yes,60,Marketing & Human Resources,58.79,Not Placed
+1170,M,59.96,Others,42.16,Others,Science,61.26,Science & Technology,No,54.48,Marketing & Human Resources,65.48,Not Placed
+1171,F,63.4,Others,67.2,Others,Commerce,60,Commerce & Management,No,58.06,Marketing & Human Resources,69.28,Not Placed
+1172,M,80,Others,80,Others,Commerce,72,Commerce & Management,Yes,63.79,Marketing & Finance,66.04,Placed
+1173,M,73,Others,58,Others,Commerce,56,Commerce & Management,No,84,Marketing & Human Resources,52.64,Placed
+1174,F,52,Others,52,Others,Science,55,Science & Technology,No,67,Marketing & Human Resources,59.32,Not Placed
+1175,M,73.24,Others,50.83,Others,Science,64.27,Science & Technology,Yes,64,Marketing & Finance,66.23,Placed
+1176,M,63,Others,62,Others,Science,65,Science & Technology,No,87.5,Marketing & Human Resources,60.69,Not Placed
+1177,F,59,Central,60,Others,Commerce,56,Commerce & Management,No,55,Marketing & Human Resources,57.9,Placed
+1178,F,73,Central,97,Others,Commerce,79,Commerce & Management,Yes,89,Marketing & Finance,70.81,Placed
+1179,M,68,Others,56,Others,Science,68,Science & Technology,No,73,Marketing & Human Resources,68.07,Placed
+1180,F,77.8,Central,64,Central,Science,64.2,Science & Technology,No,75.5,Marketing & Human Resources,72.14,Not Placed
+1181,M,65,Central,71.5,Others,Commerce,62.8,Commerce & Management,Yes,57,Marketing & Finance,56.6,Placed
+1182,M,62,Central,60.33,Others,Science,64.21,Science & Technology,No,63,Marketing & Human Resources,60.02,Not Placed
+1183,M,52,Others,65,Others,Arts,57,Medical & Others,Yes,75,Marketing & Finance,59.81,Not Placed
+1184,M,65,Central,77,Central,Commerce,69,Commerce & Management,No,60,Marketing & Human Resources,61.82,Placed
+1185,F,56.28,Others,62.83,Others,Commerce,59.79,Commerce & Management,No,60,Marketing & Human Resources,57.29,Not Placed
+1186,F,88,Central,72,Central,Science,78,Medical & Others,No,82,Marketing & Human Resources,71.43,Placed
+1187,F,52,Central,64,Central,Commerce,61,Commerce & Management,No,55,Marketing & Finance,62.93,Not Placed
+1188,M,78.5,Central,65.5,Central,Science,67,Science & Technology,Yes,95,Marketing & Finance,64.86,Placed
+1189,M,61.8,Others,47,Others,Commerce,54.38,Commerce & Management,No,57,Marketing & Finance,56.13,Not Placed
+1190,F,54,Central,77.6,Others,Commerce,69.2,Commerce & Management,No,95.65,Marketing & Finance,66.94,Not Placed
+1191,F,64,Others,70.2,Central,Commerce,61,Commerce & Management,No,50,Marketing & Finance,62.5,Not Placed
+1192,M,67,Others,61,Central,Science,72,Commerce & Management,No,72,Marketing & Finance,61.01,Placed
+1193,M,65.2,Central,61.4,Central,Commerce,64.8,Commerce & Management,Yes,93.4,Marketing & Finance,57.34,Placed
+1194,F,60,Central,63,Central,Arts,56,Medical & Others,Yes,80,Marketing & Human Resources,56.63,Placed
+1195,M,52,Others,55,Others,Commerce,56.3,Commerce & Management,No,59,Marketing & Finance,64.74,Not Placed
+1196,M,66,Central,76,Central,Commerce,72,Commerce & Management,Yes,84,Marketing & Human Resources,58.95,Placed
+1197,M,72,Others,63,Others,Science,77.5,Science & Technology,Yes,78,Marketing & Finance,54.48,Placed
+1198,F,83.96,Others,53,Others,Science,91,Science & Technology,No,59.32,Marketing & Human Resources,69.71,Placed
+1199,F,67,Central,70,Central,Commerce,65,Medical & Others,No,88,Marketing & Human Resources,71.96,Not Placed
+1200,M,69,Others,65,Others,Commerce,57,Commerce & Management,No,73,Marketing & Human Resources,55.8,Placed
+1201,M,69,Others,60,Others,Commerce,65,Commerce & Management,No,87.55,Marketing & Finance,52.81,Placed
+1202,M,54.2,Central,63,Others,Science,58,Commerce & Management,No,79,Marketing & Human Resources,58.44,Not Placed
+1203,M,70,Central,63,Central,Science,66,Science & Technology,No,61.28,Marketing & Human Resources,60.11,Placed
+1204,M,55.68,Others,61.33,Others,Commerce,56.87,Commerce & Management,No,66,Marketing & Human Resources,58.3,Placed
+1205,F,74,Others,73,Others,Commerce,73,Commerce & Management,Yes,80,Marketing & Finance,67.69,Placed
+1206,M,61,Others,62,Others,Commerce,65,Commerce & Management,No,62,Marketing & Finance,56.81,Placed
+1207,M,41,Central,42,Central,Science,60,Commerce & Management,No,97,Marketing & Finance,53.39,Not Placed
+1208,M,83.33,Central,78,Others,Commerce,61,Commerce & Management,Yes,88.56,Marketing & Finance,71.55,Placed
+1209,F,43,Central,60,Others,Science,65,Commerce & Management,No,92.66,Marketing & Human Resources,62.92,Not Placed
+1210,M,62,Central,72,Central,Commerce,65,Commerce & Management,No,67,Marketing & Finance,56.49,Placed
+1211,M,80.6,Others,82,Others,Commerce,77.6,Commerce & Management,No,91,Marketing & Finance,74.49,Placed
+1212,M,58,Others,60,Others,Science,72,Science & Technology,No,74,Marketing & Finance,53.62,Placed
+1213,M,67,Others,67,Others,Commerce,73,Commerce & Management,Yes,59,Marketing & Finance,69.72,Placed
+1214,F,74,Others,66,Others,Commerce,58,Commerce & Management,No,70,Marketing & Human Resources,60.23,Placed
+1215,M,62,Central,58,Others,Science,53,Commerce & Management,No,89,Marketing & Human Resources,60.22,Not Placed
